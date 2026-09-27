@@ -51,7 +51,7 @@ summary(res2)
 
 Westerlund, J. (2015). The effect of recursive detrending on panel unit root
 tests. *Journal of Econometrics*, 185(2), 453–467.
-<https://doi.org/10.1016/j.jeconom.2014.09.013>
+<https://doi.org/10.1016/j.jeconom.2014.06.015>
 
 ## Author
 

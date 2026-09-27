@@ -27,7 +27,7 @@ xtrec(data, var, panel_id, time_id, trend = 0L,
 \references{
 Westerlund, J. (2015). The effect of recursive detrending on panel unit root
 tests. \emph{Journal of Econometrics}, 185(2), 453-467.
-\doi{10.1016/j.jeconom.2014.09.013}
+\doi{10.1016/j.jeconom.2014.06.015}
 }
 \examples{
 dat <- grunfeld_data()

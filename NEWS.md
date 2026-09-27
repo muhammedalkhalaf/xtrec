@@ -2,7 +2,7 @@
 
 * Initial CRAN release.
 * Implements the t-REC (iid errors) and t-RREC (robust) panel unit root tests
-  from Westerlund (2015) <doi:10.1016/j.jeconom.2014.09.013>.
+  from Westerlund (2015) <doi:10.1016/j.jeconom.2014.06.015>.
 * Supports polynomial trend degrees 0, 1, 2, ...
 * Asymptotic bias coefficients a_p and b_p computed analytically.
 * Panel-level summary statistics for heterogeneity assessment.
