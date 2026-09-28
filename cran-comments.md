@@ -1,15 +1,14 @@
-# CRAN Submission Comments — xtrec 1.0.0
+## xtrec 1.0.1
+
+* Corrected the DOI of Westerlund (2015) to 10.1016/j.jeconom.2014.06.015 in DESCRIPTION, NEWS, README, R and Rd files. No changes to code.
+
+All DOIs in the package were verified against CrossRef before this submission.
 
 ## Test environments
-- Windows 10 x86_64, R 4.x
-- R-hub: Ubuntu Linux 22.04, R-release
-- R-hub: Fedora Linux, R-devel
+
+* Ubuntu 24.04, R 4.3.3 (R CMD check --as-cran)
+* CRAN check results for the previous version: OK on all platforms
 
 ## R CMD check results
-0 errors | 0 warnings | 0 notes
 
-## Package notes
-- This is a new submission.
-- Implements the panel unit root tests from Westerlund (2015, J. Econometrics).
-- No system dependencies. Pure R implementation.
-- DOI in DESCRIPTION links to the original paper.
+0 errors | 0 warnings | 0 notes
